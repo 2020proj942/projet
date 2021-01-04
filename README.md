@@ -1,1 +1,6 @@
-# projet
+# Projet942 Traitement de l'info
+
+Pour ce projet au sein du module PROJ942, nous devons réaliser une application permettant à une tablette fonctionnant sous Android de prendre une photo et de l’envoyer à un serveur distant. Ce dernier se charge d’effectuer une reconnaissance faciale et de renvoyer le résultat à la tablette. Le but étant ainsi de comparer le visage pris en photo avec ceux de la base de données et de renvoyer l’identité de la personne.
+	Pour ce faire, nous devions créer premièrement le programme de reconnaissance faciale en Python en prenant une base de données fournie. Ensuite, l’appliquer avec notre propre base de données. Il fallait aussi que la tablette puisse prendre une photo et communiquer avec le programme de reconnaissance. Cette communication se fait sous forme client/serveur, l’application Android jouant le rôle de client et le programme de reconnaissance faciale jouant celui de serveur.
+ En ce qui concerne la gestion de projet, nous avons suivi une méthode SCRUM, que nous avons mise en place grâce à l’outil Trello.
+Ce projet nous permet donc de développer nos compétences sur 4 grandes parties : Androïd, Traitement d’Image, Communication (client/serveur) et méthode SCRUM.
